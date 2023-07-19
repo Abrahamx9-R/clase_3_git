@@ -4,3 +4,5 @@ Desde clase git 1.
 Abraham 
 Galindo
 Ruiz
+
+Explicacion proteco
