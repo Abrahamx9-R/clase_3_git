@@ -14,4 +14,8 @@ Hola, mi nombre es abraham y son el nuevo trabajador.
 
 Estudio en la unam.
 
+<<<<<<< HEAD
 Ultima clase de la semana 1 de git
+=======
+Esta es la primer sesion.
+>>>>>>> 050fd8e41bdc11322e8b9889e56193ca2b29c575
